@@ -1,2 +1,3 @@
 # kingofcode
-001
+#include <STDIO.H>
+PRINTF("hello,world!")
