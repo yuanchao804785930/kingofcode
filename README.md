@@ -1,3 +1,7 @@
 # kingofcode
 #include <STDIO.H>
-PRINTF("hello,world!")
+int main()
+{
+Printf("hello,world!")
+ruturn 0;
+}
